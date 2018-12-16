@@ -4,8 +4,8 @@ Instalação do Java no Linux Deepin
 
 Vídeos:
 
-- Redes Neurais Artificiais Perceptron
+- Redes Neurais Artificiais Perceptron - Video 7
 
-	- source: 
+	- source: https://github.com/armitage256/Java/tree/master/Video-7
 
-	- video: 
+	- video: https://www.youtube.com/watch?v=3ix2h3Q8HqA
